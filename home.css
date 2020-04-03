@@ -1,0 +1,26 @@
+.navbar-brand
+{
+    font-size: 23px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive
+}
+li 
+{
+    font-size: 16px;
+    margin-left: 8px;
+    font-style: italic;
+    font-family: cursive
+}
+.navbar {
+    background-color: #333333;
+    height: 50px;
+    text-align: center;
+}
+
+.nav-link:hover
+{
+    background-color:#127687;
+
+}
+
